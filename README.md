@@ -36,7 +36,7 @@ sales-analysis/
 ├── sales_copy.csv          # Created when you use option 9
 ├── main.py                 # Main program file (rename your script to this)
 └── README.md
-text## Prerequisites
+ Prerequisites
 
 Make sure you have these Python packages installed:
 
